@@ -4,23 +4,23 @@
   "primary_color": "#222831",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "ecom-beauty"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/dicoracao",
-  "logo": "/img/uploads/screenshot_20210915-130408.png",
+  "logo": "/img/uploads/1643579114299-111111.jpg",
   "name": "dicoracao",
-  "short_name": "dicoracao",
+  "short_name": "Di Coração Criações",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/1643579114299-111111.jpg",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/1643579114299-111111.jpg",
   "store_id": 35657,
   "description": "dicoracao",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/1643579114299-111111.jpg"
 }
